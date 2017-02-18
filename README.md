@@ -1,2 +1,2 @@
-# Spark-Scala-Demos
-Small examples of Apache Spark usage
+# Spark-Machine-Learning
+Miscellaneous machine learning algorithms
